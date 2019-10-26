@@ -1,6 +1,6 @@
 # Prasara Washing Plant
 
-Java based Stand Alone Application for a washing plant which accomplished inventory and process planning.
+Java based Stand Alone Application featuring Inventory and Process Management System for the "Prasara" washing plant company.
 
 ## Screenshots
 
@@ -18,6 +18,6 @@ Developed by ALPHA Team
 
 ## Copyright
 
-(C) 2019 ALPHA Team
+(C) 2018 Ranmal Dewage (ranmal.b.dewage@gmail.com)
 <br>
-[tenusha.wordpress.com](https://tenusha.wordpress.com)
+[ranmaldewage.wordpress.com](https://ranmaldewage.wordpress.com)
